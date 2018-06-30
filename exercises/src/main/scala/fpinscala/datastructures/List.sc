@@ -8,4 +8,8 @@ dropWhile[Int](l1, x => x % 2 == 0)
 
 init(l1) == FPList(1, 2, 3, 4)
 
+length(l1)
+
+sum(l1)
+
 
