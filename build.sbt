@@ -8,7 +8,7 @@ val commonSettings = Seq(
     , "Bintray " at "https://dl.bintray.com/projectseptemberinc/maven"
   ),
   libraryDependencies ++= Seq(
-    "org.typelevel" %% "cats-kernel" % "1.5.0"
+    "org.typelevel" %% "cats-core" % "1.5.0"
   )
 )
 
