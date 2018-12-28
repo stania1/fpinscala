@@ -97,3 +97,6 @@ notes**, links to more reading, and more.
 
 _Paul and Rúnar_
 
+## Notes
+
+[Tania] - this has also been modified to contain some exercises from the book [Scala with Cats](https://gumroad.com/l/scala-with-cats)
